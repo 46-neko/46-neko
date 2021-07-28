@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on a Visual Novel with SDL2 and C  
 - 🌱 I’m currently learning C/C++, SDL2, Reverse Engineering, Embedded Systems, VitaSDK, Assembly, Ruby/RoR and Unity C#  
 - 💬 Ask me about C, C++ and Unity C#  
-- ⚡ Fun fact: The first language I learned was Lua!  
+- ⚡ Fun fact: The first language I learned was Lua because >Valve  
 
 <h3 align='center'>My Skills</h3>
 
