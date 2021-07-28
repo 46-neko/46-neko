@@ -1,6 +1,6 @@
 <h1 align='center'> Hi there 👋 I'm Pedro "k1tsunee"</h1>
 <p align='center'>
-  I'm a C/C++ developer, from Balneário Camboriú, Brazil.
+  I'm a C/C++ developer from Balneário Camboriú, Brazil.
 </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1tsunee&layout=compact" alt="felipecolor9" /></p>
 <p align='center'>
