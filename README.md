@@ -15,8 +15,8 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on a Visual Novel with SDL2 and C  
-- 🌱 I’m currently learning C/C++, SDL2, Reverse Engineering, Computer Graphics, VitaSDK, Assembly and Godot Engine  
+- 🔭 I’m currently working on a Visual Novel with SDL2 and C and OpenGL experimentations
+- 🌱 I’m currently learning C/C++, SDL2, Reverse Engineering, OpenGL and Computer Graphics, VitaSDK, Assembly and Godot Engine  
 - 💬 Ask me about C, C++ and Unity C#  
 - ⚡ Fun fact: The first language I learned was Lua because >Valve  
 
