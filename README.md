@@ -16,7 +16,7 @@
 </p>
 
 - 🔭 I’m currently working on a Reinforcement Learning Agent for Bullet Hell Games and a LineageOS port for the Samsung Galaxy Folder2
-- 🌱 I’m currently learning C/C++, Reverse Engineering, OpenGL and Computer Graphics, VitaSDK, Assembly, AI, and Android ROM Porting  
+- 🌱 I’m currently learning C/C++, Reverse Engineering, OpenGL/Computer Graphics, Assembly, AI, and Android ROM Porting  
 - 💬 Ask me about C, C++ and Unity C#  
 - ⚡ Fun fact: The first language I learned was Lua because >Valve  
 
