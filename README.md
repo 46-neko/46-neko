@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋 I'm Pedro "k1tsunee"</h1>
+<h1 align='center'> Hi there 👋 I'm Pedro "mikurindotc"</h1>
 <p align='center'>
   I'm a C/C++ developer from Balneário Camboriú, Brazil.
 </p>
@@ -7,11 +7,8 @@
   <a href="https://www.linkedin.com/in/pedro-benedetti-28b624162/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/k1tsuneepp/">
+  <a href="https://twitter.com/mikurindotc/">
     <img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://k1tsuneeplusplus.com/">
-    <img src="https://img.shields.io/badge/Website-242525?style=for-the-badge&logo=wordpress&logoColor=white" />
   </a>
 </p>
 
