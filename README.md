@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on a Reinforcement Learning Agent for Bullet Hell Games and a Neural Network Agent
 - 🌱 I’m currently learning C/C++, OpenGL/Computer Graphics, Assembly, AI, Genetic Algorithms, and Neural Networks  
-- 💬 Ask me about C, C++ and Unity C#  
+- 💬 Ask me about C and C++  
 - ⚡ Fun fact: The first language I learned was Lua because >Valve  
 
 <h3 align='center'>My Skills</h3>
