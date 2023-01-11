@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋 I'm Pedro "mikurindotc"</h1>
+<h1 align='center'> Hi there 👋 I'm Pedro "46nuko" Benedetti </h1>
 <p align='center'>
   I'm a C/C++ developer from Balneário Camboriú, Brazil.
 </p>
@@ -12,8 +12,8 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on a Reinforcement Learning Agent for Bullet Hell Games and a Neural Network Agent
-- 🌱 I’m currently learning C/C++, OpenGL/Computer Graphics, Assembly, AI, Genetic Algorithms, and Neural Networks  
+- 🔭 I’m currently working on a game and hacking stuff
+- 🌱 I’m currently learning C/C++, OpenGL/Computer Graphics, Gamedev, Assembly, Hacking  
 - 💬 Ask me about C and C++  
 - ⚡ Fun fact: The first language I learned was Lua because >Valve  
 
