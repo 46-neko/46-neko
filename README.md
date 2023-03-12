@@ -1,6 +1,6 @@
 <h1 align='center'> Hi there 👋 I'm Pedro "46nuko" Benedetti </h1>
 <p align='center'>
-  I'm a C/C++ developer from Balneário Camboriú, Brazil.
+  I'm a C/C++ developer from Florianópolis, Brazil.
 </p>
 <p align="center"><img align="center" src="https://github-readme-stats-gamma-teal.vercel.app/api/top-langs/?username=mikurindotc&hide=javascript,html,css" alt="felipecolor9" /></p>
 <p align='center'>
