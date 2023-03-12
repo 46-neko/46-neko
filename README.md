@@ -12,8 +12,8 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on a game and hacking stuff
-- 🌱 I’m currently learning C/C++, OpenGL/Computer Graphics, Gamedev, Assembly, Hacking  
+- 🔭 I’m currently working on a game and on my master's degree (and hacking stuff ofc)
+- 🌱 I’m currently learning C/C++, AI (GANs and Computer Vision), Gamedev, Assembly, Hacking  
 - 💬 Ask me about C and C++  
 - ⚡ Fun fact: The first language I learned was Lua because >Valve  
 
