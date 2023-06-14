@@ -25,7 +25,6 @@
 <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/CMake-858585?style=for-the-badge&logo=cmake&logoColor=white" height="25"/> 
 <br>
-<img src="https://img.shields.io/badge/Python-3572a5?style=for-the-badge&logo=python&logoColor=white" height="25"/>  
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Mathematics-cb0000?style=for-the-badge&logo=Apostrophe&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Unity3D%20C%23-178600?style=for-the-badge&logo=unity&logoColor=white" height="25"/>
