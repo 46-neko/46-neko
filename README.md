@@ -16,7 +16,6 @@
 - 🌱 I’m currently learning C/C++, AI (Computer Vision), Gamedev, Assembly, Hacking  
 - 💬 Ask me about C and C++  
 - ⚡ Fun fact: The first language I learned was Lua because >Valve
-- 🎉 I have lots of hyperfocuses, which include Arme Glenstid from Grand Chase, programming/computers, and videogames（￣︶￣）V
 
 <h3 align='center'>My Skills</h3>
 
