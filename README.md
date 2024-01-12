@@ -15,7 +15,8 @@
 - 🔭 I’m currently working on a game and on my master's degree (and hacking stuff ofc)
 - 🌱 I’m currently learning C/C++, AI (Computer Vision), Gamedev, Assembly, Hacking  
 - 💬 Ask me about C and C++  
-- ⚡ Fun fact: The first language I learned was Lua because >Valve  
+- ⚡ Fun fact: The first language I learned was Lua because >Valve
+- 🎉 I have lots of hyperfixations, which include Arme Glenstid from Grand Chase, cars, programming, videogames, manga, anime, light novels, giant robots, Rubik's Cube, etc.. Ask me about my hyperfixations（￣︶￣）V
 
 <h3 align='center'>My Skills</h3>
 
