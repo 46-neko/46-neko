@@ -7,8 +7,8 @@
   <a href="https://www.linkedin.com/in/pedro-benedetti-28b624162/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/46Nyeko/">
-    <img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://bsky.app/profile/shirofennec.bsky.social">
+    <img src="https://img.shields.io/badge/BlueSky-1da1f2?style=for-the-badge&logo=bluesky&logoColor=white" />
   </a>
 </p>
 
