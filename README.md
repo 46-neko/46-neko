@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/C++-f34b7d?style=for-the-badge&logo=cplusplus&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Python-000080?style=for-the-badge&logo=python&logoColor=white&color=4882ab" height="25"/>
+<img src="https://img.shields.io/badge/Ruby-000080?style=for-the-badge&logo=ruby&logoColor=white&color=751212" height="25"/>
 <br>
 <img src="https://img.shields.io/badge/GDScript-000080?style=for-the-badge&logo=godotengine&logoColor=white&color=40505c" height="25"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25"/>
