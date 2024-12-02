@@ -13,9 +13,10 @@
 </p>
 
 - 🔭 I’m currently working on a game and on my master's degree (and hacking stuff ofc)
-- 🌱 I’m currently learning C/C++, AI (Computer Vision), Gamedev, Assembly, Hacking  
+- 🌱 I’m currently learning C/C++, Gamedev, Assembly, Hacking  
 - 💬 Ask me about C and C++  
 - ⚡ Fun fact: The first language I learned was Lua because >Valve
+- 🤖 I used to do stuff related do AI. Not anymore.
 
 <h3 align='center'>My Skills</h3>
 
