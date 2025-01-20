@@ -7,9 +7,7 @@
   <a href="https://www.linkedin.com/in/pedro-benedetti-28b624162/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://bsky.app/profile/shirofennec.bsky.social">
-    <img src="https://img.shields.io/badge/BlueSky-1da1f2?style=for-the-badge&logo=bluesky&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&link=https%3A%2F%2Fx.com%2FShiroFennec" />
 </p>
 
 - 🔭 I’m currently working on a game and on my master's degree (and hacking stuff ofc)
