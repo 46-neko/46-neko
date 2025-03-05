@@ -2,7 +2,7 @@
 <p align='center'>
   I'm a C/C++ developer from Brazil, living in Japan!
 </p>
-<p align="center"><img align="center" src="https://github-readme-stats-gamma-teal.vercel.app/api/top-langs/?username=46-neko&hide=python,javascript,html,css,shell,c%23" alt="felipecolor9" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats-gamma-teal.vercel.app/api/top-langs/?username=46-neko&hide=cuda,python,javascript,html,css,shell,c%23" alt="felipecolor9" /></p>
 <p align='center'>
   <a href="https://www.linkedin.com/in/pedro-benedetti-28b624162/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
