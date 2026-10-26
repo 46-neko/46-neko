@@ -3,6 +3,7 @@
   I'm a C/C++ developer!
 </p>
 <p align="center"><img align="center" src="https://github-readme-stats-gamma-teal.vercel.app/api/top-langs/?username=46-neko&hide=cuda,jupyter%20notebook,python,javascript,html,css,shell,c%23" alt="felipecolor9" /></p>
+
 - 🔭 I’m currently working on a game and on my doctor degree (and hacking stuff ofc)
 - 🌱 I’m currently learning C/C++, Gamedev, Assembly, Hacking  
 - 💬 Ask me about C and C++  
