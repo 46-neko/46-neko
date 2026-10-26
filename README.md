@@ -1,17 +1,8 @@
-<h1 align='center'> Hi there 👋 I'm Pedro "46neko" Benedetti </h1>
+<h1 align='center'> Hi there 👋 I'm 46neko </h1>
 <p align='center'>
-  I'm a C/C++ developer from Brazil, living in Japan!
+  I'm a C/C++ developer!
 </p>
 <p align="center"><img align="center" src="https://github-readme-stats-gamma-teal.vercel.app/api/top-langs/?username=46-neko&hide=cuda,jupyter%20notebook,python,javascript,html,css,shell,c%23" alt="felipecolor9" /></p>
-<p align='center'>
-  <a href="https://www.linkedin.com/in/pedro-benedetti-28b624162/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/ShiroFennec">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&link=https%3A%2F%2Fx.com%2FShiroFennec" />
-  </a>
-</p>
-
 - 🔭 I’m currently working on a game and on my doctor degree (and hacking stuff ofc)
 - 🌱 I’m currently learning C/C++, Gamedev, Assembly, Hacking  
 - 💬 Ask me about C and C++  
